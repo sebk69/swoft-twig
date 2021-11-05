@@ -6,7 +6,7 @@
  * Under GNU GPL V3 licence
  */
 
-namespace Sebk\JsonResponse;
+namespace Sebk\SwoftTwig;
 
 
 use Sebk\SmallOrmCore\Database\SwoftPool;
