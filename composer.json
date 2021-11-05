@@ -1,0 +1,21 @@
+{
+  "name": "sebk/swoft-twig",
+  "type": "library",
+  "description": "Twig for Swoft",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "Sébasttien Kus",
+      "email": "seb@small-iceberg.dev"
+    }
+  ],
+  "require": {
+    "swoft/framework": "~2.0.0",
+    "twig/twig": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sebk\\SwoftTwig\\": "src/"
+    }
+  }
+}
